@@ -1,0 +1,77 @@
+\nomenclatureentry{A$\mathbf{G_r}$@[{$\mathbf{G_r}$}]\begingroup Graph representing the railway network \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{A$\mathbf{V_r}$@[{$\mathbf{V_r}$}]\begingroup Set of nodes in railway network \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{A$v_{r,i}$ @[{$v_{r,i}$ }]\begingroup  Node $i$ in the railway network, representing station $i$ \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{A$N_r$ @[{$N_r$ }]\begingroup  Number of nodes in railway network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{A$\mathbf{E_r}$ @[{$\mathbf{E_r}$ }]\begingroup  Set of edges in railway network \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{A$e_{r,i}$ @[{$e_{r,i}$ }]\begingroup  Edge $i$ in railway network, representing railway $i$ \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{A$M_r$ @[{$M_r$ }]\begingroup  Number of edges in railway network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{A$\mathbf{C_r}$ @[{$\mathbf{C_r}$ }]\begingroup Set of components in railway network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{B$\mathbf{G_p}$@[{$\mathbf{G_p}$}]\begingroup  Graph representing the power network \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{B$\mathbf{V_p}$ @[{$\mathbf{V_p}$ }]\begingroup  Set of nodes in power network \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{B$v_{p,i}$ @[{$v_{p,i}$ }]\begingroup  Node $i$ in the power network, representing electrical bus $i$ \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{B$N_p$ @[{$N_p$ }]\begingroup  Number of nodes in power network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{B$\mathbf{E_p}$ @[{$\mathbf{E_p}$ }]\begingroup  Set of edges in power network \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{B$e_{p,i}$ @[{$e_{p,i}$ }]\begingroup  Edge $i$ in power network, representing transmission line $i$ \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{B$M_p$ @[{$M_p$ }]\begingroup Number of edges in power network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{B$\mathbf{C_p}$ @[{$\mathbf{C_p}$ }]\begingroup  Set of components in power network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{B$\mathbf{N_G}$@[{$\mathbf{N_G}$}]\begingroup Set of generators in power network  \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{B$N_G$@[{$N_G$}]\begingroup Number of generators in power network  \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{B$G_i$ @[{$G_i$ }]\begingroup  Generator $i$ in power network \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{B$\mathbf{N_L}$@[{$\mathbf{N_L}$}]\begingroup Set of loads in power network \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{B$N_L$@[{$N_L$}]\begingroup Number of loads in power network  \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{B$L_i$ @[{$L_i$ }]\begingroup  Load $i$ in power network \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{C$\mathbf{E_{r \leftarrow p}}$ @[{$\mathbf{E_{r \leftarrow p}}$ }]\begingroup  Set of interdependency edges between railway and power network \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{C$e_{r,p}^{i \leftarrow j,k}$ @[{$e_{r,p}^{i \leftarrow j,k}$ }]\begingroup  Interdependency edge between station $i$ and electrical bus $j$ with load $k$ \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$\mathbf{V_{p,i}^{reg}}$ @[{$\mathbf{V_{p,i}^{reg}}$ }]\begingroup  Set of nodes in region $i$ of power network \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$v_{p,i,j}^{reg}$ @[{$v_{p,i,j}^{reg}$ }]\begingroup  Node $j$ in region $i$ of power network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$N_{p,i}^{reg}$ @[{$N_{p,i}^{reg}$ }]\begingroup  Number of nodes in region $i$ of power network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$\mathbf{E_{p,i}^{reg}}$ @[{$\mathbf{E_{p,i}^{reg}}$ }]\begingroup  Set of edges in region $i$ of power network \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$e_{p,i,j}^{reg}$ @[{$e_{p,i,j}^{reg}$ }]\begingroup  Edge $j$ in region $i$ of power network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$M_{p,i}^{reg}$ @[{$M_{p,i}^{reg}$ }]\begingroup  Number of edges in region $i$ of power network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$\mathbf{C_{p,i}^{reg}}$ @[{$\mathbf{C_{p,i}^{reg}}$ }]\begingroup  Set of components in region $i$ of power network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$\mathbf{V_{r,i}^{reg}}$ @[{$\mathbf{V_{r,i}^{reg}}$ }]\begingroup  Set of nodes in region $i$ of railway network \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$v_{r,i,j}^{reg}$ @[{$v_{r,i,j}^{reg}$ }]\begingroup  Node $j$ in region $i$ of railway network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$N_{r,i}^{reg}$ @[{$N_{r,i}^{reg}$ }]\begingroup  Number of nodes in region $i$ of railway network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$\mathbf{E_{r,i}^{reg}}$ @[{$\mathbf{E_{r,i}^{reg}}$ }]\begingroup  Set of edges in region $i$ of railway network \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$e_{r,i,j}^{reg}$ @[{$e_{r,i,j}^{reg}$ }]\begingroup  Edge $j$ in region $i$ of railway network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$M_{r,i}^{reg}$ @[{$M_{r,i}^{reg}$ }]\begingroup  Number of edges in region $i$ of railway network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$\mathbf{C_{r,i}^{reg}}$ @[{$\mathbf{C_{r,i}^{reg}}$ }]\begingroup  Set of components in region $i$ of railway network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$\mathbf{N_f}$ @[{$\mathbf{N_f}$ }]\begingroup  Set of components to remove in the initiating event \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$n_{f,i}$ @[{$n_{f,i}$ }]\begingroup  Component $i$ to remove in the initiating event \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$N_{fail}$ @[{$N_{fail}$ }]\begingroup  Number of elements to remove in the initiating event \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$f$ @[{$f$ }]\begingroup  Fraction of components to remove in the initiating event\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{D$p_{ie}$ @[{$p_{ie}$ }]\begingroup  Probability of being selected for a removal for each component\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$\mathbf{N^r_{s,i}}$ @[{$\mathbf{N^r_{s,i}}$ }]\begingroup  Set of stations directly connected with a railway to station $i$\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$\mathbf{N^r_{rw,i}}$ @[{$\mathbf{N^r_{rw,i}}$ }]\begingroup  Set of stations connected by railway $i$\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$S^r_{s,i}$ @[{$S^r_{s,i}$ }]\begingroup  Binary functional state of station $i$\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$S^r_{rw,i}$ @[{$S^r_{rw,i}$ }]\begingroup  Binary functional state of railway $i$\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$S^p_{l,i}$ @[{$S^p_{l,i}$ }]\begingroup  Binary functional state of transmission line $i$\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$\mathbf{P_G}$ @[{$\mathbf{P_G}$ }]\begingroup  Set of nominal generator power\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$\mathbf{P_L}$ @[{$\mathbf{P_L}$ }]\begingroup  Set of nominal load power\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$P_{G,i}$ @[{$P_{G,i}$ }]\begingroup  Nominal power of generator $i$\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$P_{L,i}$ @[{$P_{L,i}$ }]\begingroup  Nominal power of load $i$\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$P_{G,i}^{max}$ @[{$P_{G,i}^{max}$ }]\begingroup  Maximum power of generator $i$\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$P_{L,i}^{max}$ @[{$P_{L,i}^{max}$ }]\begingroup  Maximum power of load $i$\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$\mathbf{F_l}$ @[{$\mathbf{F_l}$ }]\begingroup  Set of line power flows\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$F_{l,i}$ @[{$F_{l,i}$ }]\begingroup  Power flow at line $i$\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$F_{l,i}^{max}$ @[{$F_{l,i}^{max}$ }]\begingroup  Power flow capacity at line $i$\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$W$ @[{$W$ }]\begingroup  Load penalty constant\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$\mathbf{G'}$@[{$\mathbf{G'}$}]\begingroup  Graph after a disruptive event \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$\mathbf{V'}$ @[{$\mathbf{V'}$ }]\begingroup  Set of nodes after a disruptive event\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$\mathbf{E'}$ @[{$\mathbf{E'}$ }]\begingroup  Set of edges after a disruptive event \nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$\mathbf{P_G}'$ @[{$\mathbf{P_G}'$ }]\begingroup  Set of nominal generator power after a disruptive event\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$\mathbf{P_L}'$ @[{$\mathbf{P_L}'$ }]\begingroup  Set of nominal load power after a disruptive event\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$S^p_{l,k}$ @[{$S^p_{l,k}$ }]\begingroup  Binary functional state of line $k$\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$R_{P_L,k}$ @[{$R_{P_L,k}$ }]\begingroup  Load shedding ratio of load $k$\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$\mathbf{R_{P_L}}'$ @[{$\mathbf{R_{P_L}}'$ }]\begingroup  Set of load shedding ratios\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{E$T_{r \leftarrow p}^{P_L} $ @[{$T_{r \leftarrow p}^{P_L} $ }]\begingroup  Tolerance threshold for station load shedding\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{F$V$ @[{$V$ }]\begingroup  Vulnerability index\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{F$PI$ @[{$PI$ }]\begingroup  performance indicator\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{F$A_r$ @[{$A_r$ }]\begingroup  Accessibility of railway network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{F$n_a^i$ @[{$n_a^i$ }]\begingroup  Number of stations accessible from station $i$\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{F$FDNS$ @[{$FDNS$ }]\begingroup  Fraction of Demand Not Supplied\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{G$\Bar{V}$ @[{$\Bar{V}$ }]\begingroup  Average vulnerability index\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{G$CI_{95}$ @[{$CI_{95}$ }]\begingroup  $95\%$ confidence intervals\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{G$Z$ @[{$Z$ }]\begingroup  Confidence intervals constant\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{G$\sigma$ @[{$\sigma$ }]\begingroup  Standard deviation estimation\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{G$N_{exp}$ @[{$N_{exp}$ }]\begingroup  Number of Monte Carlo simulations\nomeqref {0}|nompageref}{2}
